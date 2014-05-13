@@ -2,6 +2,20 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Zengus",
+    "thumb": "zengus/thumb.png",
+    "desc": "Zengus is a project management tool. Our goal is to make project management, planning and organizing as simple as it could be.",
+    "url": "http://zengus.com",
+    "submitter": "victorgutemberg",
+    "submissionDate": "2014-05-06",
+    "tags": [
+      "Production",
+      "Productivity", "Project Management",
+      "Local Storage",
+      "jQuery", "Django"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
